@@ -1,0 +1,23 @@
+# C Programming Examples Collection
+
+This collection demonstrates various fundamental C programming concepts through simple examples. Each file focuses on a different aspect of C programming.
+
+## Table of Contents
+
+1. [Basic Examples](#basic-examples)
+2. [Control Flow](#control-flow)
+3. [Loops](#loops)
+4. [Variables and Data Types](#variables-and-data-types)
+5. [User Input](#user-input)
+
+---
+
+## Basic Examples
+
+### [simple.c](#simplec)
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello World");
+    return 0;
+}
